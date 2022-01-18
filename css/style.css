@@ -6,14 +6,14 @@
 header {
     height: 80px;
     width: 100%;
-    background-color: pink;
+    background-color: hsl(299deg 69% 69%);
     margin-bottom: 20px;
 }
 
 .section1 {
     width: 100%;
     height: 250px;
-    background-color: yellow;
+    background-color: hsl(54deg 63% 68%);
     margin-bottom: 20px;
 }
 
@@ -26,19 +26,19 @@ main::after {
 .barra {
     width: 100%;
     height: 50px;
-    background-color: aqua;
+    background-color: hsl(204deg 56% 79%);
     margin-bottom: 20px;
 }
 
 .sfondo {
-    background-color: black;
+    background-color: hsl(208deg 98% 50%);
     height: calc(50px + 250px + 20px + 20px);
 }
 
 .colonna1 {
     width: 25%;
     height: 250px;
-    background-color: aqua;
+    background-color: hsl(204deg 56% 79%);
     float: left;
     margin-bottom: 20px;
     margin-right: 2.5%;
@@ -47,7 +47,7 @@ main::after {
 .colonna2 {
     width: 45%;
     height: 250px;
-    background-color: aqua;
+    background-color: hsl(204deg 56% 79%);
     float: left;
     margin-bottom: 20px;
     margin-right: 2.5%;
@@ -56,7 +56,7 @@ main::after {
 .colonna3 {
     width: 25%;
     height: 250px;
-    background-color: aqua;
+    background-color: hsl(204deg 56% 79%);
     float: left;
     margin-bottom: 20px;
 }
@@ -64,6 +64,6 @@ main::after {
 footer {
     width: 100%;
     height: 50px;
-    background-color: blueviolet;
+    background-color: hsl(272deg 99% 50%);
     margin-top: 20px;
 }
