@@ -55,11 +55,12 @@ header {
     margin-bottom: 20px;
 }
 
-main::after {
+
+/* main::after {
     content: "";
     display: table;
     clear: both;
-}
+} */
 
 footer {
     width: 100%;
